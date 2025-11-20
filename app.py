@@ -85,7 +85,7 @@ st.markdown("""
 def load_and_prepare_data(filepath):
     """Load and prepare data with comprehensive preprocessing"""
     try:
-        df = pd.read_csv(filepath, nrows=800000)
+        df = pd.read_csv(filepath, nrows=750000)
         
         # Preprocessing
         for col in df.columns:
