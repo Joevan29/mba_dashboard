@@ -57,9 +57,8 @@ Ikuti langkah-langkah berikut untuk menjalankan *dashboard* ini di komputer loka
     Aplikasi akan otomatis terbuka di browser Anda melalui http://localhost:8501.
 ---
 ## 🎓 Penulis
-
-Joevan Pramana Achmad
-NPM: 227006516015
-Program Studi Sistem Informasi, Universitas Nasional (UNAS)
+* Joevan Pramana Achmad
+* NPM: 227006516015
+* Program Studi Sistem Informasi, Universitas Nasional (UNAS)
 
 Dibuat untuk keperluan Skripsi / Tugas Akhir.
