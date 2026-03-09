@@ -56,7 +56,7 @@ Ikuti langkah-langkah berikut untuk menjalankan *dashboard* ini di komputer loka
 
     Aplikasi akan otomatis terbuka di browser Anda melalui http://localhost:8501.
 ---
-🎓 Penulis
+## 🎓 Penulis
 
 Joevan Pramana Achmad
 NPM: 227006516015
